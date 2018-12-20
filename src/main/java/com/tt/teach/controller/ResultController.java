@@ -9,7 +9,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.Resource;
 import java.util.List;
-
+/**
+*@作者：biyani
+*@时间：2018/12/20 17:24
+*@描述：
+*/
 @Controller
 @RequestMapping("/res")
 public class ResultController {
